@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/red-horse-male-enhancement-pills/sitemap.xml
+Sitemap: https://red-horse-male-enhancement-pills.vercel.app/sitemap-vercel.xml
+Sitemap: https://red-horse-male-enhancement-pills.pages.dev/sitemap-cloudflare.xml
